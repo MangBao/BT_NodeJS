@@ -1,0 +1,6 @@
+[
+    { "idByBook": 0, "name": "Cong nghe", "expiration": 5 },
+    { "idByBook": 1, "name": "Kinh te", "expiration": 6 },
+    { "idByBook": 2, "name": "Giao duc", "expiration": 4 },
+    { "idByBook": 3, "name": "Dong thuc vat", "expiration": 7 }
+]
